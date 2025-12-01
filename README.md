@@ -18,5 +18,5 @@ This repository showcases short video clips created using **AI generation tools*
 To demonstrate my skills in **AI content automation**, **video editing**, and **creative storytelling**.
 
 ## 📎 Video Links
-Upload your video URLs here (Google Drive, YouTube, Streamable, etc.)
+(https://youtu.be/C3k0O7kVIZ8)
 
